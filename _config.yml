@@ -21,13 +21,13 @@ repository               : "ozdindar/ozdindar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/myphoto.jpg"
+  avatar           : "/images/myphoto.png"
   name             : "Dindar Öz"
   pronouns         : # example: "he/his"  
   bio              : "Assistant Professor in the Software Engineering Department at Yaşar University"
   location         : "İzmir-Turkey"
   employer         : "Yaşar University"
-  uri              : "www.yasar.edu.tr"
+  uri              : # URL
   email            : "dindar.oz@yasar.edu.tr" 
 
   # Academic websites
