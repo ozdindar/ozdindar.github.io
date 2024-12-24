@@ -13,16 +13,15 @@ redirect_from:
 Below are some of my repositories. Click on the links to learn more about each project!
 
 | Project | Description | Image |
-|---------|-------------|-------|
-| [**Metaheuristics**](https://github.com/ozdindar/Metaheuristics) | This project focuses metaheuristic algorithms and their application on several optimization problems  | ![Metaheuristics](/images/favicon.ico) |
-| [**Project 2**](https://github.com/yourusername/project2) | A brief description of Project 2. This tool helps to... | ![Project 2](https://via.placeholder.com/150 "Project 2 Image") |
-| [**Project 3**](https://github.com/yourusername/project3) | A brief description of Project 3. This repository contains... | ![Project 3](https://via.placeholder.com/150 "Project 3 Image") |
-| [**Project 4**](https://github.com/yourusername/project4) | A brief description of Project 4. This application provides... | ![Project 4](https://via.placeholder.com/150 "Project 4 Image") |
-| [**Project 5**](https://github.com/yourusername/project5) | A brief description of Project 5. This software is designed to... | ![Project 5](https://via.placeholder.com/150 "Project 5 Image") |
-| [**Project 6**](https://github.com/yourusername/project6) | A brief description of Project 6. This is an algorithm for... | ![Project 6](https://via.placeholder.com/150 "Project 6 Image") |
-| [**Project 7**](https://github.com/yourusername/project7) | A brief description of Project 7. This library enables... | ![Project 7](https://via.placeholder.com/150 "Project 7 Image") |
-| [**Project 8**](https://github.com/yourusername/project8) | A brief description of Project 8. This project explores... | ![Project 8](https://via.placeholder.com/150 "Project 8 Image") |
-| [**Project 9**](https://github.com/yourusername/project9) | A brief description of Project 9. This simulation involves... | ![Project 9](https://via.placeholder.com/150 "Project 9 Image") |
+|---------|-------------|:-------:|
+| [**Metaheuristics**](https://github.com/ozdindar/Metaheuristics) | This project focuses metaheuristic algorithms and their application on several optimization problems  |<img src="/images/optimization.png" alt="Metaheuristics" width="100" height="100">  |
+| [**SE-1105 Lecture Project**](https://github.com/ozdindar/SE-1105) | SE-1105 Introduction to Programming and Problem Solving I Course In-Class live coding and course material | <img src="/images/CProgramming.png" alt="SE-1105" width="100" height="100"> |
+| [**SE-1106 Lecture Project**](https://github.com/ozdindar/SE-1105) | SE-1106 Introduction to Programming and Problem Solving II Course In-Class live coding | <img src="/images/OOPProgramming.png" alt="SE-1106" width="100" height="100"> |
+| [**SE-4488 Lecture Project**](https://github.com/ozdindar/RL_CourseProject) | SE-4488 Introduction to Reinforcement Learning Course In-Class live coding | <img src="/images/RL.png" alt="SE-4488" width="100" height="100"> |
+| [**SE-4486 Lecture Project**](https://github.com/ozdindar/AI4GLectureProject) | SE-4486 Artificial Intelligence for Games Course In-Class live coding | <img src="/images/ai4g.png" alt="AI for Games" width="100" height="100"> |
+| [**Soccer Game Engine**](https://github.com/ozdindar/SoccerGameEngine) | A Java project prepared for the AI for Games Course. It is a simple soccer game engine where students are asked to implement the AI of the soccer players | <img src="/images/soccerengine.png" alt="Soccer Game Engine" width="100" height="100"> |
+
+
 
 ## About Me
 Feel free to explore my repositories and connect with me. Let me know if you have any questions!
