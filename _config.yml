@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Dindar Öz"
   pronouns         : # example: "he/his"  
-  bio              : "Assitant Professor in the Software Engineering Department at Yaşar University"
+  bio              : "Assistant Professor in the Software Engineering Department at Yaşar University"
   location         : "İzmir-Turkey"
   employer         : "Yaşar University"
-  uri              : # URL
+  uri              : "www.yasar.edu.tr"
   email            : "dindar.oz@yasar.edu.tr" 
 
   # Academic websites
