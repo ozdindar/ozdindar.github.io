@@ -22,6 +22,7 @@ Below are some of my repositories. Click on the links to learn more about each p
 | [**SE-4486 Lecture Project**](https://github.com/ozdindar/AI4GLectureProject) | SE-4486 Artificial Intelligence for Games Course In-Class live coding | <img src="/images/ai4g.png" alt="AI for Games" width="150" height="80"> |
 | [**SE-4487 Lecture Project**](https://github.com/ozdindar/SE4487LectureProject) | SE-4487 Advanced Object-Oriented Programming Principles Course In-Class live coding | <img src="/images/advoop.png" alt="SE-4487" width="150" height="80"> |
 | [**Soccer Game Engine**](https://github.com/ozdindar/SoccerGameEngine) | A Java project prepared for the AI for Games Course. It is a simple soccer game engine where students are asked to implement the AI of the soccer players | <img src="/images/soccerengine.png" alt="Soccer Game Engine" width="150" height="100"> |
+| [**Chess AI Competition**](https://github.com/ozdindar/ChessAICompetition) | A simple Board Game AI competition project for the students of SE-4486 AI for Games course. | <img src="/images/chessai.png" alt="Chess AI Competition" width="150" height="100"> |
 
 
 
